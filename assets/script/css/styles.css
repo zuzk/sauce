@@ -16,15 +16,10 @@ margin-top: 10px;}
 background-image: url(/lol2.png);
 background-repeat: no-repeat;
 background-size: 100% 100%;
-background-attachment: fixed;
-margin-top: 15px;
+margin-top: auto;
 margin-right: auto;
 margin-left: auto;
 text-align: center;
-padding-left: 8px;
-padding-right: 8px;
-padding-top: 5px;
-padding-bottom: 15px;
 font-family: "Segoe UI";
 color: #000000;
 font-weight: 400;
